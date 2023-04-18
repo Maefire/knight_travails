@@ -6,8 +6,8 @@ Your task is to build a function knight_moves that shows the shortest possible w
 
 You can think of the board as having 2-dimensional coordinates. Your function would therefore look like:
 
-*```knight_moves([0,0],[1,2]) == [[0,0],[1,2]]```
-*```knight_moves([0,0],[3,3]) == [[0,0],[1,2],[3,3]]```
+*```knight_moves([0,0],[1,2]) == [[0,0],[1,2]]```  
+*```knight_moves([0,0],[3,3]) == [[0,0],[1,2],[3,3]]```  
 *```knight_moves([3,3],[0,0]) == [[3,3],[1,2],[0,0]]```
 
 1. Put together a script that creates a game board and a knight.
